@@ -1,9 +1,13 @@
 body {
-    background-color: #CCCCCC;
+    
 }
 
 #banner {
         width: 100%;
+}
+
+.principal {
+    background-color: #CCCCCC;
 }
 
 h1 {
@@ -28,4 +32,8 @@ em strong {
 
 .beneficios {
     background-color: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
